@@ -132,7 +132,7 @@ MIT Sixth Sense 연구팀이 만들고자 했던 것
 
 ---
 
-http://googleusercontent.com/image_generation_content/6
+<img width="1024" height="1024" alt="Gemini_Generated_Image_bae2q0bae2q0bae2 (1)" src="https://github.com/user-attachments/assets/f514bf50-e0a7-4bcb-b31b-6d433ac2f19d" />
 
 
 ## 1. 의식 복제 및 제어 기술 (Consciousness Replication and Control)
