@@ -177,6 +177,8 @@ MIT Sixth Sense 연구팀이 만들고자 했던 것
 ## - 조기 질병 예측 및 맞춤형 자동 투여기기 등장
 
 
+![제목](https://raw.githubusercontent.com/username/repo/branch/path/to/image.png)
+
 
 
 
