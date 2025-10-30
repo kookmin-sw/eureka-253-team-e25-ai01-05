@@ -181,7 +181,7 @@ MIT Sixth Sense 연구팀이 만들고자 했던 것
 
 
 
-<img src="cc6514c4-962b-40b4-b460-c295b9063f5b.jpg" width="330" height="190" alt="활동사진1">
+<img src="https://raw.githubusercontent.com/사용자명/저장소명/브랜치명/경로/파일명.png" width="1024" height="1024" alt="활동사진">
 
 
 
