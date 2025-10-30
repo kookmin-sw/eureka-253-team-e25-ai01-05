@@ -181,7 +181,8 @@ MIT Sixth Sense 연구팀이 만들고자 했던 것
 
 
 
-![이미지 설명](https://github.com/사용자명/저장소명/raw/브랜치명/파일경로.jpg)
+![Gemini Generated Image](https://github.com/user-attachments/assets/f514bf50-e0a7-4bcb-b31b-6d433ac2f19d)
+
 
 
 
