@@ -176,11 +176,12 @@ MIT Sixth Sense 연구팀이 만들고자 했던 것
 ## - 뇌파·시각·감정 기반 인터페이스 → AR 안경, 피부 아래 센서 → 혈당·호르몬·스트레스 실시간 측정  
 ## - 조기 질병 예측 및 맞춤형 자동 투여기기 등장
 
-![제목을-입력해주세요_-001](https://github.com/user-attachments/assets/144c41b5-ddc6-4ad3-8cc7-6e7c7d7b24ea)
 
 
 
 
+
+![이미지 설명](https://github.com/사용자명/저장소명/raw/브랜치명/파일경로.jpg)
 
 
 
