@@ -181,7 +181,8 @@ MIT Sixth Sense 연구팀이 만들고자 했던 것
 
 
 
-<img src="https://raw.githubusercontent.com/사용자명/저장소명/브랜치명/경로/파일명.png" width="1024" height="1024" alt="설명">
+<img width="1024" height="1024" alt="Gemini_Generated_Image_bae2q0bae2q0bae2 (1)" src="https://github.com/user-attachments/assets/f514bf50-e0a7-4bcb-b31b-6d433ac2f19d" />
+
 
 
 
