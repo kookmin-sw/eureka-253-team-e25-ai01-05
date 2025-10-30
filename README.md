@@ -181,7 +181,8 @@ MIT Sixth Sense 연구팀이 만들고자 했던 것
 
 
 
-<img width="1024" height="1024" alt="제목을-입력해주세요_-001" src="https://raw.githubusercontent.com/사용자명/저장소명/브랜치명/제목을-입력해주세요_-001.jpg" />
+![제목을-입력해주세요_-001 (2)](https://github.com/user-attachments/assets/709e859a-18b7-46e8-a9c2-d51517f265e6)
+
 
 
 
