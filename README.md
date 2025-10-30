@@ -181,7 +181,7 @@ MIT Sixth Sense 연구팀이 만들고자 했던 것
 
 
 
-![기술이 도시와 인간을 재구성하다](https://raw.githubusercontent.com/user-attachments/assets/f514bf50-e0a7-4bcb-b31b-6d433ac2f19d)
+<img src="cc6514c4-962b-40b4-b460-c295b9063f5b.jpg" width="330" height="190" alt="활동사진1">
 
 
 
