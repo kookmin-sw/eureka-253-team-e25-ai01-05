@@ -218,7 +218,7 @@ MIT Sixth Sense 연구팀이 만들고자 했던 것
 
 
 
-![팀 사진](https://github.com/user-attachments/assets/이미지파일명)
+![KakaoTalk_20251117_135951232_02](https://github.com/user-attachments/assets/7d9f136a-5db6-4b38-8b7c-32124baace61)
 
 
     
