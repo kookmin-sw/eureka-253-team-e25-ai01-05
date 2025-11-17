@@ -218,7 +218,7 @@ MIT Sixth Sense 연구팀이 만들고자 했던 것
 
 
 
-![이미지 설명](https://github.com/계정/저장소/.../이미지파일명.png)
+![팀 사진](https://github.com/user-attachments/assets/이미지파일명)
 
 
     
